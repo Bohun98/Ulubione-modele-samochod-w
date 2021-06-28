@@ -1,4 +1,4 @@
-# 5 Ublubionych modeli samochodów:
+# 5 Ulubionych modeli samochodów:
 
 ---
  > # 1. mercedes cla coupe
